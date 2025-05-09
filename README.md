@@ -38,6 +38,36 @@ It includes detailed information on:
 
 ## 1️⃣ Do more skills get you better pay?
 
+### 📊 Analysis
+
+#### 💡 Insights
+
+- 📈 There is a positive correlation between the number of skills requested in job postings and the median salary, particularly in roles like Senior Data Engineer and Data Scientist.
+- 💼 Roles that require fewer skills, like Business Analyst, tend to offer lower salaries, suggesting that more specialized skill sets command higher market value.
+  
+  <img width="637" alt="project chart" src="https://github.com/user-attachments/assets/ef8020e5-f924-4771-b678-7509c3bc1b06" />
+
+  ### 📊 Analysis
+
+#### 💡 Insights
+
+- 💼 Job roles like Senior Data Engineer and Data Scientist command higher median salaries both in the India and internationally, showcasing the global demand for high-level data expertise.
+- 💰 The salary disparity between US and Non-US roles is particularly notable in high-tech jobs, which might be influenced by the concentration of tech industries in the US.
+
+  ![salary analysis](https://github.com/user-attachments/assets/12cf843f-00df-4a3a-9f74-cbd1ae508741)
+
+  ### 📊 Analysis
+
+#### 💡Insights
+
+- 💰 Higher median salaries are associated with skills like Python, Oracle, and SQL, suggesting their critical role in high-paying tech jobs.
+- 📉 Skills like PowerPoint and Word have the lowest median salaries and likelihood, indicating less specialization and demand in high-salary sectors.
+    <img width="551" alt="skill salary analysis" src="https://github.com/user-attachments/assets/5de2d979-3c84-4c1a-a222-dd3abcb2f855" />
+
+### 🤔So What
+
+- This chart highlights the importance of investing time in learning high-value skills like Python and SQL, which are evidently tied to higher paying roles, especially for those looking to maximize their salary in the tech industry
+
 
 #### 💡Insights
 

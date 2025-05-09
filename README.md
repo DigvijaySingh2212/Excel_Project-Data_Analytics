@@ -1,6 +1,7 @@
 # Excel_Project-Data_Analytics
 My first Excel project demonstrating my skills
-[Checkout my work here]
+[Checkout my work here](https://github.com/DigvijaySingh2212/Excel_Project-Data_Analytics/tree/main/Project%20P)
+
 ## Introduction
 
 As a new data nerd on his first excel project. I set out to understand what are the top skills in booming data industry. What type of skill are in demand and have higher pay.
